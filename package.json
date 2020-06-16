@@ -1,0 +1,14 @@
+{
+  "name": "tvmaze-wrapper",
+  "version": "1.0.0",
+  "description": "A wrapper for querying the tvmaze api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Billy McCord",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
